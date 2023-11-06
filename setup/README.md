@@ -10,4 +10,4 @@ Some malicious stuff, no more kali
 Needs to be accessible from more than my office sitting in front of my desktop cuse I like to lay on my couch
 
 
-![Isnt it beautiful](network.png)
+![Isnt it beautiful](network.PNG)
