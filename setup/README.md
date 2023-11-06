@@ -5,8 +5,11 @@ I'll try to keep this updated as I make changes, but I make no promises. WOW is 
 Needs - 
 
 Proxmox
+
 Active Directory
+
 Some malicious stuff, no more kali
+
 Needs to be accessible from more than my office sitting in front of my desktop cuse I like to lay on my couch
 
 
